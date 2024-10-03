@@ -2,7 +2,9 @@
 Hawaiian Shirt Wednesday Token (HSWT)
 
 Deployed on Polygon PoS Mainnet.
-polygonscan: https://polygonscan.com/address/0xC1E7f76ee6b6B0DFd6F6d9544Fd3393E7dC92267
+Polygonscan: https://polygonscan.com/address/0xC1E7f76ee6b6B0DFd6F6d9544Fd3393E7dC92267
+
+If you wear a Hawaiian shirt on a Wednesday, then you are entitled to receive 1 HSWT!
 
 **Instructions to set up wallet to receive HSWT:**
 1) Install [MetaMask wallet](https://metamask.io/).
